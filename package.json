@@ -1,0 +1,27 @@
+{
+  "name": "intro-unit-testing",
+  "version": "1.0.0",
+  "description": "Jest intro",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "npm jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyWhite/intro-unit-testing.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Dmitriy Sidorov <dmitriywhitex@ya.ru>",
+  "license": "ISC",
+  "browserslist": [
+    "ie >= 10",
+    "last 20 version"
+  ]
+}
